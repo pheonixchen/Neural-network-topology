@@ -47,12 +47,19 @@ Analyzing topological structures in neural network weight visualizations to eluc
 因为我的思路笔记非常混乱，抽空我会用统计学方法以及可视化方法把它完善一下。再发一个2.0的。
 
 图一
+
 ![image](https://github.com/pheonixchen/Neural-network-topology/assets/115352360/dce8072a-ab67-40b5-9f70-c6db7a0edfb0)
+
 图二
+
 ![image](https://github.com/pheonixchen/Neural-network-topology/assets/115352360/4f112de0-a9c2-4197-8d40-a19dee44a78e)
+
 图三
+
 ![image](https://github.com/pheonixchen/Neural-network-topology/assets/115352360/03230ed3-4f09-4cd2-b1db-caa7c17761fb)
+
 图四
+
 ![image](https://github.com/pheonixchen/Neural-network-topology/assets/115352360/31249f8d-b6b6-4a3e-a184-57fa50859ac5)
 
 Neural Network Topology.
@@ -104,12 +111,19 @@ Since my notes on the idea are very confusing, I'll take the time to refine it w
 Translated with www.DeepL.com/Translator (free version)
 
 figure 1
+
 ![image](https://github.com/pheonixchen/Neural-network-topology/assets/115352360/dce8072a-ab67-40b5-9f70-c6db7a0edfb0)
+
 figure 2
+
 ![image](https://github.com/pheonixchen/Neural-network-topology/assets/115352360/4f112de0-a9c2-4197-8d40-a19dee44a78e)
+
 figure 3
+
 ![image](https://github.com/pheonixchen/Neural-network-topology/assets/115352360/03230ed3-4f09-4cd2-b1db-caa7c17761fb)
+
 figure 4
+
 ![image](https://github.com/pheonixchen/Neural-network-topology/assets/115352360/31249f8d-b6b6-4a3e-a184-57fa50859ac5)
 
 以下是claude2.0生成的总结：
