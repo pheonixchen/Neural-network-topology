@@ -45,6 +45,7 @@ Analyzing topological structures in neural network weight visualizations to eluc
 这条pyq更多是作为一个备忘录。
 
 因为我的思路笔记非常混乱，抽空我会用统计学方法以及可视化方法把它完善一下。再发一个2.0的。
+
 图一
 ![image](https://github.com/pheonixchen/Neural-network-topology/assets/115352360/dce8072a-ab67-40b5-9f70-c6db7a0edfb0)
 图二
@@ -53,6 +54,7 @@ Analyzing topological structures in neural network weight visualizations to eluc
 ![image](https://github.com/pheonixchen/Neural-network-topology/assets/115352360/03230ed3-4f09-4cd2-b1db-caa7c17761fb)
 图四
 ![image](https://github.com/pheonixchen/Neural-network-topology/assets/115352360/31249f8d-b6b6-4a3e-a184-57fa50859ac5)
+
 Neural Network Topology.
 
 Suppose there is a neural network A (NN#A) whose function is to implement the process α, after training is complete.
@@ -100,6 +102,7 @@ This pyq is more as a meme.
 Since my notes on the idea are very confusing, I'll take the time to refine it with statistical methods as well as visualisation and post a 2.0.
 
 Translated with www.DeepL.com/Translator (free version)
+
 figure 1
 ![image](https://github.com/pheonixchen/Neural-network-topology/assets/115352360/dce8072a-ab67-40b5-9f70-c6db7a0edfb0)
 figure 2
@@ -108,6 +111,7 @@ figure 3
 ![image](https://github.com/pheonixchen/Neural-network-topology/assets/115352360/03230ed3-4f09-4cd2-b1db-caa7c17761fb)
 figure 4
 ![image](https://github.com/pheonixchen/Neural-network-topology/assets/115352360/31249f8d-b6b6-4a3e-a184-57fa50859ac5)
+
 以下是claude2.0生成的总结：
 标题:神经网络拓扑学:打开黑盒视角的尝试
 
